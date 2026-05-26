@@ -170,16 +170,16 @@ Resumos Estruturados
 Glossário
 
 Prompt = Instrução ou entrada de texto fornecida a um modelo de linguagem
-Zero-shot = Abordagem sem exemplos, apenas com a instrução da tarefa
-Few-shot = Abordagem com exemplos de entrada e saída antes da tarefa
-Chain-of-Thought = Técnica que induz raciocínio intermediário passo a passo
-Role Prompting = Atribuição de uma persona ou papel ao modelo
-LLM = Large Language Model — modelo de linguagem de grande escala
-Token = Unidade básica de texto processada pelo modelo (palavra ou parte dela)
-Temperatura = Parâmetro que controla a criatividade/aleatoriedade das respostas
-RAG = Retrieval-Augmented Generation — geração aumentada por recuperação de documentos
-NotebookLM = Ferramenta do Google que usa RAG para responder com base em fontes enviadas pelo usuário
-Tags XML = Marcadores estruturais usados em prompts para separar instruções de conteúdo
+, Zero-shot = Abordagem sem exemplos, apenas com a instrução da tarefa
+, Few-shot = Abordagem com exemplos de entrada e saída antes da tarefa
+, Chain-of-Thought = Técnica que induz raciocínio intermediário passo a passo
+, Role Prompting = Atribuição de uma persona ou papel ao modelo
+, LLM = Large Language Model — modelo de linguagem de grande escala
+, Token = Unidade básica de texto processada pelo modelo (palavra ou parte dela)
+, Temperatura = Parâmetro que controla a criatividade/aleatoriedade das respostas
+, RAG = Retrieval-Augmented Generation — geração aumentada por recuperação de documentos
+, NotebookLM = Ferramenta do Google que usa RAG para responder com base em fontes enviadas pelo usuário
+, Tags XML = Marcadores estruturais usados em prompts para separar instruções de conteúdo
 
 Prompts Reutilizáveis
 
