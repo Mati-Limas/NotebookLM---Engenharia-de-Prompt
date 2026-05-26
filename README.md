@@ -19,7 +19,7 @@ Técnicas principais estudadas
   -Role Prompting
 
 
-Curadoria de Fontes (Documentos utilizados fornecidos em mais detalhes na pasta fontes)
+Curadoria de Fontes (Documentos utilizados fornecidos em mais detalhes nos arquivos pdf prompt.pdf e prompt.txt)
   As fontes abaixo foram selecionadas e adicionadas ao NotebookLM. A curadoria priorizou materiais abertos, com cobertura técnica das quatro técnicas estudadas e diferentes formatos (texto, PDF e vídeo).
 
   Fonte 1 - Prompt Engineering Guide
